@@ -24,7 +24,6 @@ const searchFood = async () => {
         //     .then(res => res.json())
         //     .then(data => displaySearchResult(data.meals));
     }
-
 }
 
 const displaySearchResult = meals => {
